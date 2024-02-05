@@ -1,3 +1,19 @@
+## About This Project
+
+This repository contains a personalized copy of the project initially found at [mbround18/palworld-docker](https://github.com/mbround18/palworld-docker). The original project provides a Docker setup for running a Palworld server, aimed at simplifying the deployment and management of Palworld game servers.
+
+### Personal Modifications
+
+The purpose of this repository is to host a version of the project that has been adjusted to meet the specific requirements of my personal server setup. The modifications are limited to changes in configuration files to ensure compatibility with my hosting environment and preferences. These changes are focused on configuration adjustments without altering the core functionality or architecture of the original project.
+
+### Acknowledgments
+
+I extend my sincere thanks to the creators and contributors of the [mbround18/palworld-docker](https://github.com/mbround18/palworld-docker) project for their original work and for making it accessible to the wider community. This repository is intended for personal use, leveraging the solid foundation provided by the original project to more effectively run Palworld servers in my specific setting.
+
+For comprehensive details about the original project and its functionalities, please visit the [official repository](https://github.com/mbround18/palworld-docker).
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
 # Palworld Server 
 
 🌟 Welcome to the ultimate Palworld Server Setup! 🌍 This GitHub repository is your go-to toolkit 🛠️ for launching a Palworld server in a snap using Docker! Choose from preset worlds like 'casual' 🏖️, 'normal' 🌆, or 'hard' 🌋, or dive deep into customization with flexible settings 🎛️.

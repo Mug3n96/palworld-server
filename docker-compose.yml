@@ -4,6 +4,9 @@ services:
     image: mbround18/palworld-docker:latest
     environment:
       PRESET: "normal" # Options: casual, normal, hard
+      ADMIN_PASSWORD: "Em#2p%F4"
+      SERVER_PASSWORD: "ente"
+      SERVER_NAME: "Heinrich ist nicht USCHI!"
       # Optionally override specific settings:
       # DAY_TIME_SPEED_RATE: '1'
       # NIGHT_TIME_SPEED_RATE: '1'
